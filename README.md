@@ -1,5 +1,6 @@
 # EYEE-Spark-Training-Project
-EYEE 新员工培训项目 - 技术岗位
+
+EYEE 员工培训项目 
 
 == EYEE星火培训计划 ==
 * [如何租用google cloud 免费搭建一个IPSecVPN Server，完全自由使用google学习最新的互联网技术。](https://github.com/tonycai/EYEE-Spark-Training-Project/blob/master/documents/Google%20Cloud%20%E6%90%AD%E5%BB%BAVPS.pdf)(1小时）
@@ -18,9 +19,9 @@ EYEE 新员工培训项目 - 技术岗位
 * 相信科技进步会让生活更美好，并且付诸行动。
 
 == The Cardinal Rules ==
-* 不允许出现图片外链，会存在潜在的安全风险。
+* 不允许出现图片外链，会存在潜在的风险。
 * 批量修改超过100行数据，需要得到CTO的批准。
 * 性能问题，核心接口响应时间要在1秒以内。
 * 一次导出超过100条数据记录，需要得到CTO批准。
-* 不批准连续超过2天的假期
-* 前端只做页面渲染一件事，业务逻辑算法放到后端。
+* 不批准连续超过两天的假期
+* 添加定时任务，需要通过运维工程师上线流程，CC给技术主管和CTO。【NEW】
