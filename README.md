@@ -33,3 +33,23 @@ EYEE 员工培训项目
 * 两张黄牌警告，一张红牌退场。【处罚措施】【NEW】
 * 在正式环境下发版升级、维护，需要发邮件走CTO审批流程。【NEW】
 * 数据表字段，因查询需要可以适当做冗余，同时可以允许有5分钟滞后更新，有24小时后纠错补偿机制。【NEW】
+
+== The Standard for New Program  ==
+* DOC / Mock API & Formal API / Import Data  / Dev/test/Pro / post-purchase / Subscribe
+* 接口更新通知 & 同步
+* 做接口全部统一用POST方法
+* URL名称中全部统一用小写
+* 测试用例、产品、开发沟通协调 / 测试接口
+* 项目经理要提前交介入进度管理
+
+== About Time ==
+* 活在当下，用好自己的时间，更要尊重别人的时间。
+* Yesterday is history, tomorrow is a mystery. Today is a gift of God. Which is why we call it the present.
+* 在当下唯有多读书才知道要读什么书（胡适），才能对未来知领域有信心。自信、自尊、自强。物有本末, 事有始终, 人生应该以修身为本。
+
+== Blockchain Worldview ==
+* 去中心化， 先要知道什么是中心化。
+* 国富论 - 亚当斯密
+* 资本论 - 卡尔马克丝
+* 乌合之众 - 古斯塔夫·勒庞
+* 社会契约论 - 卢梭
