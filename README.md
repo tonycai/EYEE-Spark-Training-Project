@@ -8,7 +8,7 @@ EYEE 员工培训项目
 * [Linux Command-Line Tools , bash shell & Vim](https://github.com/tonycai/EYEE-Spark-Training-Project/wiki/Linux-Command-Line-Tools-%2C-bash-shell-%26-Vim)  （1，2，3）3个课时
 * [Using sqlmap for SQL Injection](https://github.com/tonycai/EYEE-Spark-Training-Project/wiki/Using-sqlmap-for-SQL-Injection) - Hacker (1h)
 * 数据库设计规范及安全操作事项  2个课时
-* 互联网后时代，如何抓住从信息网络到共识网络的机遇 - 区块链技术 （1，2，3）3个课时
+* [互联网后时代，如何抓住从信息网络到共识网络的机遇 - 区块链技术](https://github.com/tonycai/The-Journal-of-Blockchain) （1，2，3）3个课时
 * Artificial Intelligence （1，2，3）3个课时
 * Big Data （1，2，3）3个课时
 * [How to protect commercially confidential information](https://github.com/tonycai/EYEE-Spark-Training-Project/wiki/How-to-protect-commercially-confidential-information)
