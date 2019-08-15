@@ -1,8 +1,8 @@
-# EYEE-Spark-Training-Project
+# DoNew-Spark-Training-Project
 
-EYEE 员工培训项目 
+DoNew 员工培训项目 
 
-== EYEE星火培训计划 ==
+== DoNew星火培训计划 ==
 * 微服务化架构实践 - Docker （1，2，3）3个课时 
 * [Linux Command-Line Tools , bash shell & Vim](https://github.com/tonycai/EYEE-Spark-Training-Project/wiki/Linux-Command-Line-Tools-%2C-bash-shell-%26-Vim)  （1，2，3）3个课时
 * [Using sqlmap for SQL Injection](https://github.com/tonycai/EYEE-Spark-Training-Project/wiki/Using-sqlmap-for-SQL-Injection) - Hacker (1h)
