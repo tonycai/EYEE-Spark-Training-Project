@@ -11,7 +11,7 @@ DoNew 员工培训项目
 * Artificial Intelligence （1，2，3）3个课时
 * Big Data （1，2，3）3个课时
 * [How to protect commercially confidential information](https://github.com/tonycai/EYEE-Spark-Training-Project/wiki/How-to-protect-commercially-confidential-information)
-* [How to build vpn server via docker](https://github.com/tonycai/EYEE-Spark-Training-Project/wiki/How-to-protect-commercially-confidential-information)
+* [How to build vpn server with docker](https://github.com/tonycai/EYEE-Spark-Training-Project/wiki/How-to-build-vpn-server-with-docker)
 
 == Tech Concepts ==
 * 一切衡量标准以用户为核心，电商本质是服务。
